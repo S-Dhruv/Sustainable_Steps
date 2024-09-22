@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="Home"
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/homeicon"
+        />
+    <item android:title="Events"
+        android:id="@+id/eventsFragment"
+        android:icon="@drawable/scheduleicon"
+        />
+    <item android:title="Reports"
+        android:id="@+id/reportsFragment"
+        android:icon="@drawable/snapcamicon"
+        />
+    <item android:title="Leaderboard"
+        android:id="@+id/leaderboardFragment"
+        android:icon="@drawable/leaderboardicon"
+        />
+    <item android:title="Profile"
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/profileicon"
+        />
+</menu>

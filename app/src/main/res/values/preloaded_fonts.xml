@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/actor</item>
+        <item>@font/adamina</item>
+        <item>@font/akaya_telivigala</item>
+        <item>@font/alegreya</item>
+        <item>@font/alfa_slab_one</item>
+        <item>@font/amaranth</item>
+        <item>@font/changa_one</item>
+        <item>@font/inter_bold</item>
+        <item>@font/inter_semibold</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/mansalva</item>
+        <item>@font/sanchez</item>
+        <item>@font/skranji_bold</item>
+    </array>
+</resources>

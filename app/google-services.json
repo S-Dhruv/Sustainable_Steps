@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "367184357863",
+    "project_id": "sustainablesteps-2aca9",
+    "storage_bucket": "sustainablesteps-2aca9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:367184357863:android:d7f29fd7bebd8e701af542",
+        "android_client_info": {
+          "package_name": "com.example.sustainablesteps"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGvAf_8GENrBI7AHkDnvgI2FYMY0jAuWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

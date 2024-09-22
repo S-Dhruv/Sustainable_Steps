@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="event_types">
+        <item>Individual</item>
+        <item>Company</item>
+        <item>Gated Communities</item>
+    </string-array>
+</resources>
